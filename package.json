@@ -14,7 +14,7 @@
     "build": "npm install && npm install --prefix frontend && npm run build --prefix frontend",
     "generate-toc": "markdown-toc -i readme.md"
   },
-  "author": "Brad Traversy",
+  "author": "Grass",
   "license": "MIT",
   "dependencies": {
     "bcryptjs": "^2.4.3",
